@@ -15,6 +15,13 @@ public class TestGitJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Tambahan yang ketiga");
+        System.out.println("TTambahan yang ketiga");
+        
+        System.out.println("Tambahan yang ketiga");
+        System.out.println("Tambahan yang ketiga");
+        
+        System.out.println("Tulisan yang pertama");
         System.out.println("Tulisan yang pertama");
     }
 }
